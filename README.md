@@ -1,4 +1,4 @@
-# WEB
+# Web
 
 
 -Uma coleção de projetos que eu desenvolvo enquanto aprendo linguagens e artificios do Dev Web
